@@ -91,11 +91,6 @@ This drill simulates these common challenges.
 
 ---
 
-## 💬 Want a Challenge?
-
-Try refactoring your solutions using Java 8 Streams or `Pattern`/`Matcher` classes for extra practice.
-
----
 
 Happy String wrangling! 🎯
 
